@@ -1,6 +1,6 @@
 # Información básica del proyecto
 
-Este grupo es conformado por Vicente Rodríguez, María Ignacia Olave y Francisco Concha. El proyecto de investigación se basa en el efecto que tiene la actividad física en los jovenes en su salud mental, consideranto tanto aspectos positivos como negativos.
+Este grupo es conformado por Vicente Rodríguez, María Ignacia Olave y Francisco Concha. El proyecto de investigación se basa en el efecto que tiene la actividad física en los jovenes en su salud mental, considerando tanto aspectos positivos como negativos.
 
 Para ello, se realizó la presentación y un video explicativo.
 
