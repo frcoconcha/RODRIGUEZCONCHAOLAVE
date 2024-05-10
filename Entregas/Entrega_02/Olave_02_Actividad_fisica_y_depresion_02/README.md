@@ -1,0 +1,4 @@
+# README # 
+El proceso de limpieza de datos lo realicé primero copiando los datos que recopilé y los traspasé a una tabla en Excel. Luego, los traspasé a Google colab con el código import pandas as pd y el código df = pd.read_excel(‘/content/drive/MyDrive/Libro1.xlsx’). Con esto, mis números que tenía con porcentajes se traspasaron a decimal y preferí dejarlos así. 
+Para limpiar mi base de datos, quise eliminar la columna que contenía los datos que los participantes del estudio que no son cabeza del hogar antes y después de realizar actividad física. Para borrarlo utilicé el código df = df.drop([5, 6, 7, 8, 9, 10], axis=0) y el código print(df).
+La razón del por qué lo borre es porque como grupo nos queremos centrar en netamente cómo afecta el ejercicio fisico en la disminución de los sintomas depresivos.
