@@ -61,7 +61,7 @@ Aquí se puede encontrar el [video](https://youtu.be/nTANmWDGzec) y [la presenta
 
 -	Desafíos: Encontrar alguna actividad que se pueda adecuar a sus tiempos y turnos de trabajo.
 
--	Uso de la tecnología:
+-	**Uso de la tecnología**:
 
 -	Familiaridad: Media-alta, usa la tecnología principalmente para su trabajo y entretenimiento.
 -	Consumo de contenido en línea: Regular, ve videos, redes sociales y transmisiones en vivo.
