@@ -6,6 +6,10 @@ Aquí se puede encontrar el [video](https://youtu.be/nTANmWDGzec) y [la presenta
 
 ## Perfilamiento de usuarios
 
+Se perfiló a los usuarios considerando que el público objetivo de la página web son personas afectadas por sintomas de ansiedad, estrés, autoestima y depresión. Por ello, se consideró como criterio que por diversos motivos manifestaran algunos de estos sintomas, además de tener al menos un conocimiento regular de cómo usar la tecnología para que puedan llegar al sitio. 
+
+Además, para realizar su mapa de empatia y User Journey Map se utilizó la herramienta Canva.
+
 ### Perfil 1:
 -	Información demográfica: Hombre de 35 años, latino, trabaja en una oficina.
 
