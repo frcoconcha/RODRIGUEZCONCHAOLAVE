@@ -82,7 +82,7 @@ Combinando “activa” y “mente” se hace una relación inmediatamente entre
 
 ### Identificador gráfico:
 
-A pesar de que en un momento se había pensado en que el logo fuera un Imagotipo donde se pudiera separar el texto y la imagén, finalmente se decidió que sería mejor mantenerlos unidos para una mayor cohesión entre el objetivo de la página representado por el título y los símbolos que vinculan la actividad física y salud mental. 
+A pesar de que en un momento se había pensado en que el logo fuera un Imagotipo donde se pudiera separar el texto y la imagen, finalmente se decidió que sería mejor mantenerlos unidos para una mayor cohesión entre el objetivo de la página representado por el título y los símbolos que vinculan la actividad física y salud mental. 
 
 Por ello, se eligió un logo circular realizado en Canva donde se mezcló un elemento gráfico representativo de la actividad física; las pesas y de la salud mental; el cerebro. Esto porque es fácil de reconocer y entender en la audiencia, además de establecer un vínculo inmediato en la audiencia entre actividad física y salud mental. Comunica de forma simple el propósito.
 
