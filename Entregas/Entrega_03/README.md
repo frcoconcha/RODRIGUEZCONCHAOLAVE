@@ -8,7 +8,7 @@ Aquí se puede encontrar el [video](https://youtu.be/nTANmWDGzec) y [la presenta
 
 Se perfiló a los usuarios considerando que el público objetivo de la página web son personas afectadas por sintomas de ansiedad, estrés, autoestima y depresión. Por ello, se consideró como criterio que por diversos motivos manifestaran algunos de estos sintomas, además de tener al menos un conocimiento regular de cómo usar la tecnología para que puedan llegar al sitio. 
 
-Además, para realizar su mapa de empatia y User Journey Map se utilizó la herramienta Canva.
+Además, para realizar su mapa de empatia y User Journey Map se utilizó la herramienta Canva con plantillas que fueron modificadas levemente para adaptarse a críteros en español.
 
 ### Perfil 1:
 -	Información demográfica: Hombre de 35 años, latino, trabaja en una oficina.
@@ -82,13 +82,17 @@ Combinando “activa” y “mente” se hace una relación inmediatamente entre
 
 ### Identificador gráfico:
 
-Se eligió un logo circular realizado en Canva donde se mezcló un elemento gráfico representativo de la actividad física; las pesas y de la salud mental; el cerebro. Esto porque es fácil de reconocer y entender en la audiencia, además de establecer un vínculo inmediato en la audiencia entre actividad física y salud mental. Comunica de forma simple el propósito.
+A pesar de que en un momento se había pensado en que el logo fuera un Imagotipo donde se pudiera separar el texto y la imagén, finalmente se decidió que sería mejor mantenerlos unidos para una mayor cohesión entre el objetivo de la página representado por el título y los símbolos que vinculan la actividad física y salud mental. 
+
+Por ello, se eligió un logo circular realizado en Canva donde se mezcló un elemento gráfico representativo de la actividad física; las pesas y de la salud mental; el cerebro. Esto porque es fácil de reconocer y entender en la audiencia, además de establecer un vínculo inmediato en la audiencia entre actividad física y salud mental. Comunica de forma simple el propósito.
 
 Además, se eligió un Isologo circular que combina texto y símbolos para que sea más fácil de utilizar en la página web, manteniendo su simplicidad y legibilidad en distintos tamaños. Incluso, crea una unidad entre los elementos facilitando la conexión con nuestro público objetivo que busca comprender una manera de calmar los indicadores de salud mental que afectan a su cerebro.
 
 ### Paleta de colores
 
-Se eligió una paleta de colores con la plataforma Coolors que variara dentro de la misma tonalidad (entre celeste y azul), para no abrumar a la audiencia con tantos colores dentro de la página. Sin embargo, también se tomó en cuenta que tuviera colores vivos y atractivos que representen la energía de la actividad física, al mismo tiempo que tuviera un blanco para utilizar en el fondo.
+Aunque al principio se había seleccionado una paleta de colores de la plataforma Coolors que contenía blanco junto 2 tonalidades de celeste y 2 tonalidades de rosado para representar tanto la actividad física como la salud mental (por el cerebro), finalmente se descartó a favor de una opción más sobria que igualmente incluyera el blanco.
+
+Por ello, se eligió una paleta de colores con la misma plataforma Coolors que variara dentro de la misma tonalidad (entre celeste y azul), para no abrumar a la audiencia con tantos colores dentro de la página. Sin embargo, también se tomó en cuenta que tuviera colores vivos y atractivos que representen la energía de la actividad física, al mismo tiempo que tuviera un blanco para utilizar en el fondo.
 
 La paleta fue escogida tomando referencias de Behance, donde en el estilo de las páginas predominaban colores blancos o grisáceos en el fondo. Estos se combinan con colores de una misma tonalidad como rosa y violeta o colores pasteles, los cuales se utilizan para las secciones y los detalles en la página.
 
@@ -115,7 +119,7 @@ Para que la página web se vuelva más atractiva y variada, sin sobrecargarla, c
 
 El wireframe se realizó en la aplicación de moqups con un modelo webstory de scrolling. Tomando en cuenta las referencias de Behance, se decidió por usar un formato en que la información va apareciendo con un gráfico o imagen a un lado, acompañado de la información en la otra parte. En general, la página web se estructura con cuadrados. Además, cabe destacar que se realizó por secciones. No aparecerá toda la información inmediatamente, sino que cada parte aparecerá al ir bajando.
 
-En cuanto al formato para celular, se decidió cambiarlo para que los encabezados, títulos y datos vayan apareciendo verticalmente. Esto debido a que la población está acostumbrada a leer desde arriba hacia abajo en su celular, en vez de derecha a izquierda.
+En cuanto al formato para celular, en un momento se pensó en quitar las imágenes de la introducción y los iconos de la conclusión para que no fuera tan pesada de cargar la página, pero finalmente se decidió que se dejaran a favor de un mayor atractivo. Por ello, se decidió cambiarlo para que los encabezados, títulos y datos vayan apareciendo verticalmente junto a las imágenes e iconos. Esto debido a que la población está acostumbrada a leer desde arriba hacia abajo en su celular, en vez de derecha a izquierda. 
 
 ## Compilado de antecedentes y referentes
 
