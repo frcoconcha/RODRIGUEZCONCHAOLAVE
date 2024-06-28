@@ -1,0 +1,7 @@
+# Crónica - Vicente Rodríguez
+
+1. Primer gráfico: 57 de 71 adultos entre 18 a 44 años que residen en Chile, declaran tener un estrés leve en su día a día. Lo que resulta más preocupante, es que los 14 restantes admiten tener un estrés severo.
+
+2. Segundo gráfico: De los 71 encuestados, 8 hace actividad física en un nivel bajo, 23 practica moderadamente y 40 en un nivel alto. ¿Servirá realizar más actividad física para aliviar ambos niveles de estrés?
+
+3. Tercer gráfico: La respuesta es que sí. En todos los casos, el estrés severo es menor que el leve. Pero la evidencia clave está en que mientras más actividad física se practica, mayor es la diferencia entre ambos niveles de estrés. Al revisar detalladamente, con un nivel bajo de ejercicio hay 5 personas con estrés leve y 4 con severo (diferencia de 1); con un nivel moderado de ejercicio hay 15 con estrés leve y 6 con severo (diferencia de 9); con un nivel alto de ejercicio hay 33 con estrés leve y 4 con estrés severo (diferencia de 29). El grupo de mayor actividad física fue quien tuvo más personas con estrés leve y menos personas (considerando la diferencia del grupo "bajo") con estrés severo, demostrando que la regularidad en el ejercicio ayuda a aliviar el estrés.
