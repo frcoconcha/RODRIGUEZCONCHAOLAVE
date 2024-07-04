@@ -10,40 +10,49 @@
   <script>
     const spec = {
   "config": {"view": {"continuousWidth": 400, "continuousHeight": 300}},
-  "data": {"name": "data-53ed202127a2554000108d2fcf9eec09"},
+  "data": {"name": "data-76d710328cda13b9c3522355a614866b"},
   "mark": "bar",
   "encoding": {
-    "x": {
-      "field": "Nivel de actividad física y nivel de estrés",
-      "type": "nominal"
-    },
+    "color": {"field": "Nivel de estrés", "type": "nominal"},
+    "tooltip": [
+      {"field": "Nivel de actividad física", "type": "nominal"},
+      {"field": "Nivel de estrés", "type": "nominal"},
+      {"field": "Número de personas", "type": "quantitative"}
+    ],
+    "x": {"field": "Nivel de actividad física", "type": "nominal"},
     "y": {"field": "Número de personas", "type": "quantitative"}
   },
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
-    "data-53ed202127a2554000108d2fcf9eec09": [
+    "data-76d710328cda13b9c3522355a614866b": [
       {
-        "Nivel de actividad física y nivel de estrés": "Bajo y leve",
+        "Nivel de actividad física": "Bajo",
+        "Nivel de estrés": "Leve",
         "Número de personas": 5
       },
       {
-        "Nivel de actividad física y nivel de estrés": "Bajo y severo",
+        "Nivel de actividad física": "Bajo",
+        "Nivel de estrés": "Severo",
         "Número de personas": 4
       },
       {
-        "Nivel de actividad física y nivel de estrés": "Moderado y leve",
+        "Nivel de actividad física": "Moderado",
+        "Nivel de estrés": "Severo",
         "Número de personas": 15
       },
       {
-        "Nivel de actividad física y nivel de estrés": "Moderado y severo",
+        "Nivel de actividad física": "Moderado",
+        "Nivel de estrés": "Leve",
         "Número de personas": 6
       },
       {
-        "Nivel de actividad física y nivel de estrés": "Alto y leve",
+        "Nivel de actividad física": "Alto",
+        "Nivel de estrés": "Leve",
         "Número de personas": 33
       },
       {
-        "Nivel de actividad física y nivel de estrés": "Alto y severo",
+        "Nivel de actividad física": "Alto",
+        "Nivel de estrés": "Severo",
         "Número de personas": 4
       }
     ]
