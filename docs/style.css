@@ -1,5 +1,4 @@
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     background-color: white;
@@ -10,18 +9,18 @@ header {
     color: rgb(243, 239, 239);
     text-align: center;
     margin-top: 50px;
-    font-family: 'Teachers';
-    font-size: 40px;
+    font-family: 'PT Sans';
+    font-size: 50px;
 }
 
 .activalogo {
     position: absolute;
-    top: 20px;
-    left: 10px;
-    width: 160px;
+    top: 25px;
+    left: 20px;
+    width: 220px;
 }
 
-.secciones {
+.inicio {
   background-color: #3c3c3b;
   color: rgb(243, 239, 239);
   margin: 50px;
@@ -33,43 +32,14 @@ header {
   display: none;
 }
 
-.parte2 {
-    background-color: #a7c043;
-    color: rgb(243, 239, 239);
-    margin: 50px;
-    padding: 10px;
-    font-family: 'Assistant';
-    font-weight: bold;
-    font-size: 20px;
-    text-align: left;
-    width: 50%;
-    float: left;
-  }
-
-.imagenes2 {
-    margin: 10px;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-}
-
-.imagenes2 img {
-    width: 200px; 
-    height: 200px; 
-    object-fit: cover; 
-    border: 1px solid rgb(0, 0, 0);
-    border-radius: 8px;
-    box-shadow: 0 2px 4px black;
-}
-
 .imagenes {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin-top: 20px;
 }
 
 .imagenes img {
-    width: 150px;
+    width: 225px;
     border: 1px solid white;
     border-radius: 8px;
     box-shadow: 0 2px 4px black;
@@ -80,18 +50,66 @@ header {
     transform: scale(1.1);
 }
 
-.secciones2 {
-    background-color: #3c3c3b;
-    color: rgb(243, 239, 239);
+.secciones {
     margin: 50px;
     padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.parrafoizq {
+    background-color: #a7c043;
+    color: rgb(243, 239, 239);
     font-family: 'Assistant';
     font-weight: bold;
     font-size: 20px;
-    text-align: center;
+    margin-right: 20px;
+    padding: 10px;
   }
 
-.secciones3 {
+.imagenesizq {
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease-in-out;
+}
+
+.imagenleft:hover {
+    transform: scale(1.1); 
+    z-index: 1; 
+}
+
+.imagenright:hover {
+    transform: scale(1.1); 
+    z-index: 1; 
+}
+
+.parrafoder {
+    background-color: #3c3c3b;
+    color: rgb(243, 239, 239);
+    font-family: 'Assistant';
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px;
+  }
+
+.graficosverticales {
+    display: flex;
+    flex-direction: column;
+}
+
+.graficoshorizontales {
+    display: flex;
+    flex-direction: row;
+}
+
+#vis6 {
+    margin-left: 80px;
+}
+
+.final {
     background-color: #a7c043;
     color: rgb(243, 239, 239);
     margin: 50px;
@@ -100,21 +118,58 @@ header {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
-  }
-
-#vis {
-    margin-left: 40px;
 }
 
-.seccionesconvis2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr; 
-    gap: 20px; 
-    align-items: start; 
-    margin: 20px; 
-    margin-top: 30px;
+.cuadros {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45%;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-#vis4, #vis5, #vis6 {
-    margin-left: 200px;
+.cajas {
+    background-color: #3c3c3b;
+    color: rgb(243, 239, 239);
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Assistant';
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.cajas ul {
+    padding-left: 20px;
+    text-align: left;
+}
+
+footer {
+    background-color: #a7c043;
+    color: rgb(243, 239, 239);
+    text-align: center;
+    padding: 10px;
+    border-top: #677629 5px solid;
+    width: 100%;
+    bottom: 0;
+    font-family: 'Assistant';
+    font-weight: bold;
+}
+
+.invisible {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.5s ease, transform 0.5s ease; 
+}
+
+.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
