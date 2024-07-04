@@ -1,6 +1,6 @@
 # Información general
 
-Para esta entrega se realizó una [presentación](https://www.canva.com/design/DAGJY3Pkqs4/rhpUmhh2ADwxjwLx-qnKXw/edit?utm_content=DAGJY3Pkqs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) con un [video]().
+Para esta entrega se realizó una [presentación](https://www.canva.com/design/DAGJY3Pkqs4/rhpUmhh2ADwxjwLx-qnKXw/edit?utm_content=DAGJY3Pkqs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) con un [video](https://youtu.be/_2eR8YggsM0).
 
 ## Toma de decisiones
 
@@ -20,11 +20,16 @@ Siguiendo la estructura planteada anteriormente, la webstory fue diseñada hacia
 
 ## Pondedor de autoría
 
-Elemento	Francisco	Vicente	 Ignacia
-Bienvenida		x          x       x
-Contexto		x          x       x
-Estrés          x          x
-Depresión       x                  x
-3 indicadores   x        
-Conclusión      x          x
-Videos          x                  x			
+Bienvenida: Francisco, Vicente, Ignacia		
+
+Contexto: Francisco, Vicente, Ignacia
+
+Estrés: Francisco, Vicente
+
+Depresión: Francisco, Ignacia
+
+3 indicadores (estrés, ansiedad y autoestima): Francisco
+
+Conclusión: Francisco, Vicente
+
+Videos: Francisco, Ignacia
