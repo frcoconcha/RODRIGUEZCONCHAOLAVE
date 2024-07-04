@@ -1,0 +1,3 @@
+# Comentarios sobre crónica y textos
+
+El titular se escogió ya que relaciona las ideas principales que queremos exponer a lo largo de la historia. La bajada permite al lector contextualizarse dentro de lo que queremos contar sobre la relación entre el ejercicio físico y la salud mental. En el caso de las visualizaciones, estas refuerzan el relato porque posibilita a tener una idea más clara de los datos que entregamos a lo largo de la historia. El estilo que utilizamos permite seguir un orden desde lo más general a lo más específico y sigue también el desarrollo de la demostración de nuestra hipótesis.  
