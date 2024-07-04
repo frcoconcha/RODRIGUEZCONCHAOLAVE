@@ -1,12 +1,12 @@
 # Información general
 
-Para esta entrega se realizó una presentación con un video.
+Para esta entrega se realizó una [presentación](https://www.canva.com/design/DAGJY3Pkqs4/rhpUmhh2ADwxjwLx-qnKXw/edit?utm_content=DAGJY3Pkqs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) con un [video]().
 
 ## Toma de decisiones
 
 Siguiendo la estructura planteada anteriormente, la webstory fue diseñada hacia abajo en formato de cuadros a la izquierda y derecha de manera alternada.
 
-1. En primer lugar, se diseño el inicio de la página con header y .activalogo a su izquierda. Anteriormente el diseño de la página se había planteado con tonalidades de azul, pero fue cambiado a un verde que representara un tono más esperanzador acompañado de un gris para que la página no se sobrecargara de tonos demasiado brillantes. Además, se agregó una fuente no considerada anteriormente: PT Sans. Las fuentes que habíamos pensado no le daban fuerza al titulo al ser demasiado parecidas entre ellas, por lo que se buscó una diferente y con mayor estilo.
+1. En primer lugar, se diseño el inicio de la página con header y .activalogo a su izquierda. Anteriormente el diseño de la página se había planteado con tonalidades de azul, pero fue cambiado a un verde que representara un tono más esperanzador y el bienestar de la salud física acompañado de un gris para que la página no se sobrecargara de tonos demasiado brillantes. Además, se agregó una fuente no considerada anteriormente: PT Sans. Las fuentes que habíamos pensado no le daban fuerza al titulo al ser demasiado parecidas entre ellas, por lo que se buscó una diferente y con mayor estilo.
 
 2. En segundo lugar, se programó la bienvenida a la página web con .inicio. Aquí sí fue utilizada una fuente que habíamos considerado en nuestro manual de marca: Assistant. Además, como se había planeado, el texto se encuentra al centro junto a 3 imágenes debajo de él para que capten la atención del espectador. Por lo mismo, se les dio un borde y sombra con .imagenes (border, border-radius y box-shadow) y una animación donde al pasar el clic encima se agrandaran (transform: scale).
 
@@ -17,3 +17,14 @@ Siguiendo la estructura planteada anteriormente, la webstory fue diseñada hacia
 5. En quinto lugar, se decidió terminar con un párrafo que explícitamente indica los beneficios que tiene una mayor cantidad de horas de ejercicio físico en estos indicadores de salud mental (ansiedad, estrés, autoestima y depresión). Además, se decidió agregar enlaces a videos en Youtube para que la gente se motivara a hacer ejercicio incluso desde casa, uno de los objetivos de la página. Por otra parte, se determinó que las referencias se encontrarían a un lado para que no se perdieran en una esquina de la página (como se había planeado en un principio).
 
 6. Finalmente, se decidió hacer más interactiva la página web con animaciones hechas gracias a jQuery y W3Schools. El logo y el título de la página no presentan transiciones para que sean lo primero que vea la persona al entrar. Por lo mismo, a la bienvenida que viene debajo se le agregó un fadein para que aparezca unos segundos más tarde. Por otra parte, se decidió que el resto de los elementos de la página irían apareciendo a medida que las personas vayan scrolleando (basándonos en la información encontrada en W3Schools en secciones como Smooth Scroll usando scrollReveal). De esta manera, la página se verá más fluida y atractiva para los usuarios.
+
+## Pondedor de autoría
+
+Elemento	Francisco	Vicente	 Ignacia
+Bienvenida		x          x       x
+Contexto		x          x       x
+Estrés          x          x
+Depresión       x                  x
+3 indicadores   x        
+Conclusión      x          x
+Videos          x                  x			
