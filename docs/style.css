@@ -9,15 +9,16 @@ header {
     color: rgb(243, 239, 239);
     text-align: center;
     margin-top: 50px;
-    font-family: 'PT Sans';
+    font-family: 'Amaranth';
     font-size: 50px;
 }
 
 .activalogo {
     position: absolute;
-    top: 25px;
-    left: 20px;
-    width: 220px;
+    top: 34px;
+    left: 18px;
+    width: 225px;
+    z-index: 1000;
 }
 
 .inicio {
@@ -25,7 +26,7 @@ header {
   color: rgb(243, 239, 239);
   margin: 50px;
   padding: 10px;
-  font-family: 'Assistant';
+  font-family: 'Asap';
   font-weight: bold;
   font-size: 20px;
   text-align: center;
@@ -36,6 +37,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .imagenes img {
@@ -62,9 +64,9 @@ header {
 .parrafoizq {
     background-color: #a7c043;
     color: rgb(243, 239, 239);
-    font-family: 'Assistant';
+    font-family: 'Asap';
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     margin-right: 20px;
     padding: 10px;
   }
@@ -76,21 +78,21 @@ header {
 }
 
 .imagenleft:hover {
-    transform: scale(1.1); 
+    transform: scale(1.05); 
     z-index: 1; 
 }
 
 .imagenright:hover {
-    transform: scale(1.1); 
+    transform: scale(1.05); 
     z-index: 1; 
 }
 
 .parrafoder {
     background-color: #3c3c3b;
     color: rgb(243, 239, 239);
-    font-family: 'Assistant';
+    font-family: 'Asap';
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 20px;
     padding: 10px;
   }
@@ -114,7 +116,7 @@ header {
     color: rgb(243, 239, 239);
     margin: 50px;
     padding: 10px;
-    font-family: 'Assistant';
+    font-family: 'Asap';
     font-weight: bold;
     font-size: 20px;
     text-align: center;
@@ -129,6 +131,15 @@ header {
     margin-right: 50px;
 }
 
+.cuadros2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .cajas {
     background-color: #3c3c3b;
     color: rgb(243, 239, 239);
@@ -136,7 +147,7 @@ header {
     margin-bottom: 20px;
     width: 100%;
     text-align: center;
-    font-family: 'Assistant';
+    font-family: 'Asap';
     font-weight: bold;
     border-radius: 8px;
 }
@@ -151,10 +162,10 @@ footer {
     color: rgb(243, 239, 239);
     text-align: center;
     padding: 10px;
-    border-top: #677629 5px solid;
+    border-top: #3c3c3b 5px solid;
     width: 100%;
     bottom: 0;
-    font-family: 'Assistant';
+    font-family: 'Asap';
     font-weight: bold;
 }
 
@@ -171,4 +182,74 @@ footer {
 
 a {
     color: white;
+}
+
+.navbar {
+    background-color: #3c3c3b;
+    overflow: hidden;
+    position: relative;
+    margin-top: -67px;
+    width: 100%;
+    z-index: 500;
+    padding: 0px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    padding: 8px;
+    margin: 0 4px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'PT Sans';
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.colorpagina {
+    color: #a7c043;
+}
+
+.colornegro {
+    color: #3c3c3b;
+}
+
+.colorrojo {
+    color: rgb(237, 45, 45);
+}
+
+.colorverde {
+    color: rgb(112, 212, 112);
+}
+
+.colorazul {
+    color: rgb(87, 87, 255);
+}
+
+.colorazul2 {
+    color: rgb(119, 119, 255);
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#vis2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
 }
