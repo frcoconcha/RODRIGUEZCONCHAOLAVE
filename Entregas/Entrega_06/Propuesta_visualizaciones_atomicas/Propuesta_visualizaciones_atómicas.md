@@ -1,0 +1,9 @@
+# Visualizaciones atómicas
+
+Como se mencionó anterior, nuestra historia se basa en cómo la actividad mejora la salud mental enfocándonos en distintos indicadores. Por lo mismo, las visualizaciones atómicas se dividieron por indicadores, donde cada integrante trabajó uno de estos para respaldar o refutar la hipótesis.
+
+En primer lugar, en los gráficos de estrés, se presentaron dos para contextualizar los niveles de estrés y actividad física de los encuestados. El tercer gráfico de este tema es el que permite conocer la diferencia que existe entre ambas variables, ya que mientras más actividad física se practica, mayor es la diferencia entre ambos niveles de estrés, es decir, hay más personas con estrés leve que severo. Este es el mensaje que se quiere comunicar, que una mayor actividad física sí afecta al estrés aportando a que mejora la salud mental.
+
+En segundo lugar, en los gráficos de depresión, se presentaron dos para evidenciar el antes y el después de este indicador con el efecto de la actividad física, dividido en niveles. Resultó ser totalmente positivo y respaldó la hipótesis, por lo que le queremos comunicar a las personas que efectivamente una mayor actividad física disminuye los sintomas depresivos mejorando su salud mental.
+
+En tercer y último lugar, se expuso un gráfico que agrupa distintos indicadores: estrés, ansiedad y autoestima, mostrando un panorama más amplio de lo investigado. La visualización permitió demostrar que se cumplió la hipótesis en indicadores de estrés y autoestima, pero no en ansiedad, ya que se percibió que esta se mantenía constante a medida que se aumentaban las horas de actividad física. Esto permitió entregar matices y enriquecer la investigación. Es por esto último que no se eliminó del trabajo aquel indicador, queremos comunicarle a las personas que la actividad física sí es efectiva para mejorar los indicadores de estrés y autoestima, pero no el de la ansiedad.
