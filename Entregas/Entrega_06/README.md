@@ -17,7 +17,7 @@ Siguiendo la estructura planteada en la entrega anterior, la webstory fue diseñ
 
 5.	En quinto lugar, ya se había creado la alternancia de colores y lugares entre cada sección de la página para que se viera más atractiva. Sin embargo, en el caso del último gráfico no resultaba que toda la información estuviera al lado. Por ello, se decidió crear pequeños recuadros con la clase “cuadro” y “cajas” para explicar cada uno de los indicadores. De esta manera, el gráfico no quedaba demasiado pequeño ante la gran cantidad de información a su lado.
 
-6.	En cuanto al final, la estructura y diseño ya había sido decidida y hecha para la entrega anterior. Se agregaron las referencias restantes y se modificó un poco la redacción únicamente para explicitar aún más los beneficios del ejercicio.
+6.	En cuanto al final, la estructura y diseño ya había sido decidida y hecha para la entrega anterior. Se agregaron las referencias restantes y se modificó un poco la redacción únicamente para explicitar aún más los beneficios del ejercicio. Además, se agregó un icono para hacer más llamativo el final.
 
 7.	Finalmente, se decidió hacer más interactiva la página web con otras animaciones hechas gracias a jQuery y W3Schools, además de las ya creadas. Además del fadein y el Smooth Scroll para que las secciones de la página fueran apareciendo de a poco (usando scrollReveal), se agregó que cuando se haga click la página bajara de a poco. De esta manera, la página se verá más fluida y atractiva para los usuarios.
 
